@@ -1,0 +1,3 @@
+0
+0
+This file contains Data for 2048 terminal game.
