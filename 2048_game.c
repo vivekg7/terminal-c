@@ -1,3 +1,10 @@
+/* If You Face a segmentation fault error
+ * Check if "score2048.txt" file
+ * is present in the Directory or not
+ * if not :
+ * Create it Manually 
+ * and put 2 zeroes in the text
+ */
 //For Infinite Player with char
 //Best with Scores
 #include <stdio.h>
