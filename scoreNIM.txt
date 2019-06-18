@@ -1,3 +1,4 @@
-11
-3
+0
+0
 This file contains Data for The Game of Nim.
+I need to encrypt this data
