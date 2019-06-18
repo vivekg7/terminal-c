@@ -1,0 +1,3 @@
+11
+3
+This file contains Data for The Game of Nim.
