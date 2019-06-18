@@ -1,3 +1,11 @@
+/* If You Face a segmentation fault error
+ * Check if "scoreNIM.txt" file
+ * is present in the Directory or not
+ * if not :
+ * Create it Manually 
+ * and put 2 zeroes in the text
+ */
+
 /* The Game of Nim
  * Famous Algorithm
  * see on wikipedia */
