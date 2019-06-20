@@ -1,6 +1,9 @@
 /* A little A.I. Based 
  * Tic-Tac-Toe Game
  *
+ * If Segmentation Fault
+ * use command : touch scoreTTT.txt
+ *
  * reference :
  * https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-3-tic-tac-toe-ai-finding-optimal-move/ 
  * */
@@ -227,6 +230,7 @@ void writedata() {
     fprintf(fp, "%d\n", humanwin);
     fprintf(fp, "%d\n", bothwin);
     fprintf(fp, "%s\n", "This file contains Data for The Tic Tac Toe Game.");
+    fprintf(fp, "%s\n", "Be Honest and Do Not change these Values.");
     fclose(fp);
 }
 
